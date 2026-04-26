@@ -1,3 +1,0 @@
-FROM nginx:alpine
-
-COPY reactApp/dist/ /usr/share/nginx/html
